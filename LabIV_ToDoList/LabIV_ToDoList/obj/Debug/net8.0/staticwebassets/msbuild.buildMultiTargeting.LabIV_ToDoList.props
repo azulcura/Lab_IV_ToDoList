@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LabIV_ToDoList.props" />
+</Project>

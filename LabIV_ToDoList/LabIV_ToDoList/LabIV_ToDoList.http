@@ -1,0 +1,6 @@
+@LabIV_ToDoList_HostAddress = http://localhost:5010
+
+GET {{LabIV_ToDoList_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
